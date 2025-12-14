@@ -10,8 +10,6 @@
 
 Este projeto demonstra um fluxo de trabalho moderno de Extração, Transformação e Carregamento (ETL) de dados, utilizando um **container Docker** como ambiente isolado para executar o pipeline em Python. O resultado final é exportado como um arquivo CSV para o sistema Host e, posteriormente, transformado e visualizado no Power BI.
 
---
-
 ### Fluxo do Pipeline
 
 1.  **Docker Compose:** Gerencia a construção da imagem e inicia o container.
