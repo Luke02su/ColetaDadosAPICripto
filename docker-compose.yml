@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  data_collector:
+    build: .
+    container_name: crypto_collector
+    # Mapeamento do volume (pasta 'data' no host para /app/data no container)
+    volumes:
+      - ./data:/app/data
+    # O comando CMD no Dockerfile já executa o script, não é necessário 'command' aqui.
