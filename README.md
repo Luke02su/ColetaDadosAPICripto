@@ -1,5 +1,9 @@
 # 🚀 Pipeline de Dados: Docker, Python e Power BI (Criptomoedas)
 
+[![Python](https://img.shields.io/badge/Processamento-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Containerização-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Power BI](https://img.shields.io/badge/Visualização-Power_BI-F2C811?logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+
 --- 
 
 ## 💡 Visão Geral do Projeto
