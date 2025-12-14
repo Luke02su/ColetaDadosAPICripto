@@ -35,6 +35,7 @@ docker-data-pipeline/
 ├── Dockerfile                  # Define a imagem Docker (ambiente Python e dependências)
 ├── docker-compose.yml          # Definição do serviço para orquestração
 └── README.md                   # Este arquivo de documentação
+´´´
 
 ---
 
