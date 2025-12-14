@@ -28,14 +28,15 @@ Este projeto demonstra um fluxo de trabalho moderno de Extração, Transformaç�
 
 ## 📁 Estrutura do Repositório
 
-##📁 Estrutura do Repositório```
+##📁 Estrutura do Repositório
+```
 docker-data-pipeline/
 ├── data/                       # Diretório de Output (CSV será salvo aqui)
 ├── script_api.py               # Script Python de coleta, tratamento e exportação
 ├── Dockerfile                  # Define a imagem Docker (ambiente Python e dependências)
 ├── docker-compose.yml          # Definição do serviço para orquestração
 └── README.md                   # Este arquivo de documentação
-´´´
+```
 
 ---
 
