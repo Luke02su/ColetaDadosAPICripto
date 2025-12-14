@@ -27,8 +27,6 @@ Este projeto demonstra um fluxo de trabalho moderno de Extração, Transformaç�
 ---
 
 ## 📁 Estrutura do Repositório
-
-##📁 Estrutura do Repositório
 ```
 docker-data-pipeline/
 ├── data/                       # Diretório de Output (CSV será salvo aqui)
